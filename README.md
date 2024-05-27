@@ -1,4 +1,4 @@
-![image](https://github.com/5yamach5/TheExile/assets/163719893/0d69b723-4e53-4739-8cc3-85daf0461382)![image](https://github.com/5yamach5/TheExile/assets/163719893/c60bc1ab-f11a-42fe-947d-eac2d27e9f12)# TheExile
+# TheExile
  2D Platform game
 Despite all the C# coding,I have learned some Unity physics, animation, 2D  pixel art and lot's of stuff by this game.
 We are a red slime who exiled from his village filled with green slimes, so we got an axe and now it's revenge time!
