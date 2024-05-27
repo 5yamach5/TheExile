@@ -6,3 +6,6 @@ We are a red slime who exiled from his village filled with green slimes, so we g
 Main Menu
 
 ![image](https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf)
+
+Main Character<br>
+![image](https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78)
