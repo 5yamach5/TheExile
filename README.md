@@ -6,25 +6,25 @@ You play as a red slime who has been exiled from a village full of green slimes.
 
 ### Main Menu
 
-![Main Menu](https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf)
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf" width="500" />
 
 ### Main Character
 
-![Main Character](https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78)
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78" width="500" />
 
 ### Enemies
 
-![Enemy 1](https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510)
-![Enemy 2](https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3)
-![Enemy 3](https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee)
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510" width="500" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3" width="500" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee" width="500" />
 
 ### Guide Menu
 
-![Guide Menu](https://github.com/5yamach5/TheExile/assets/163719893/e0cf058e-1e8d-4938-9241-667b6dfd17b2)
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/e0cf058e-1e8d-4938-9241-667b6dfd17b2" width="500" />
 
 ### Win Scene
 
-![Win Scene](https://github.com/5yamach5/TheExile/assets/163719893/13a34da2-c876-484c-a7a0-a39856eb17d6)
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/13a34da2-c876-484c-a7a0-a39856eb17d6" width="500" />
 
 ### Game Scenes
 
