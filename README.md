@@ -1,3 +1,4 @@
 # TheExile
  2D Platform game
-![image](https://github.com/5yamach5/TheExile/assets/163719893/aead7359-ad0b-4591-950f-4b0bb0c24e49)
+Main Menu
+![image](https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf)
