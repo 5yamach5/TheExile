@@ -6,17 +6,17 @@ You play as a red slime who has been exiled from a village full of green slimes.
 
 ### Main Menu
 
-<img src="https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf" width="500" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf" width="700" />
 
 ### Main Character
 
-<img src="https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78" width="500" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78" width="100" />
 
 ### Enemies
 
-<img src="https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510" width="500" />
-<img src="https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3" width="500" />
-<img src="https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee" width="500" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510" width="100" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3" width="100" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee" width="100" />
 
 ### Guide Menu
 
@@ -24,11 +24,11 @@ You play as a red slime who has been exiled from a village full of green slimes.
 
 ### Win Scene
 
-<img src="https://github.com/5yamach5/TheExile/assets/163719893/13a34da2-c876-484c-a7a0-a39856eb17d6" width="500" />
+<img src="https://github.com/5yamach5/TheExile/assets/163719893/13a34da2-c876-484c-a7a0-a39856eb17d6" width="700" />
 
 ### Game Scenes
 
 <p float="left">
-  <img src="https://github.com/5yamach5/TheExile/assets/163719893/448195a3-4836-4023-93a9-193a1f3f3f61" width="500" />
-  <img src="https://github.com/5yamach5/TheExile/assets/163719893/6d7c4d84-ec25-488a-b9c0-c9649591fc21" width="500" />
+  <img src="https://github.com/5yamach5/TheExile/assets/163719893/448195a3-4836-4023-93a9-193a1f3f3f61" width="700" />
+  <img src="https://github.com/5yamach5/TheExile/assets/163719893/6d7c4d84-ec25-488a-b9c0-c9649591fc21" width="700" />
 </p>
