@@ -14,9 +14,10 @@ You play as a red slime who has been exiled from a village full of green slimes.
 
 ### Enemies
 
-![Enemy 1](https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510)
-![Enemy 2](https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3)
-![Enemy 3](https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee)
+![Enemy 1]!(https://github.com/5yamach5/TheExile/assets/163719893/2b44ef93-2b67-49d9-8d63-effa66e7ca59)
+![Enemy 2]!(https://github.com/5yamach5/TheExile/assets/163719893/57f6eec6-ec5c-465b-9c26-33fac97a18ed)
+![Enemy 3]!(https://github.com/5yamach5/TheExile/assets/163719893/3aa4da88-18ea-45d3-94bf-c77ac577bf6d)
+
 
 ### Guide Menu
 
