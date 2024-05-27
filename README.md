@@ -1,34 +1,32 @@
-# TheExile
- 2D Platform game
-Despite all the C# coding,I have learned some Unity physics, animation, 2D  pixel art and lot's of stuff by this game.
-We are a red slime who exiled from his village filled with green slimes, so we got an axe and now it's revenge time!
+# 2D Platform Game: The Exile
 
-Main Menu
+In developing this game, I have not only honed my C# coding skills but also delved into Unity physics, animation, 2D pixel art, and much more.
 
-![image](https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf)
+You play as a red slime who has been exiled from a village full of green slimes. Armed with an axe, it's time for revenge!
 
-Main Character<br><br>
-![image](https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78)
-<br>
-Enemies:
-![image](https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510)
-![image](https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3)
-![image](https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee)
-<br><br>
-Guide menu
-<br>
-![image](https://github.com/5yamach5/TheExile/assets/163719893/e0cf058e-1e8d-4938-9241-667b6dfd17b2)
-<br>
-Win Scene
-<br><br>
-![image](https://github.com/5yamach5/TheExile/assets/163719893/13a34da2-c876-484c-a7a0-a39856eb17d6)
-<br><br>
-Some game scenes
-![image](https://github.com/5yamach5/TheExile/assets/163719893/448195a3-4836-4023-93a9-193a1f3f3f61)
-<br><br>
-![image](https://github.com/5yamach5/TheExile/assets/163719893/6d7c4d84-ec25-488a-b9c0-c9649591fc21)
+### Main Menu
 
+![Main Menu](https://github.com/5yamach5/TheExile/assets/163719893/45b33fca-ba3a-47ce-a121-72ed7a24f0cf)
 
+### Main Character
 
+![Main Character](https://github.com/5yamach5/TheExile/assets/163719893/6fa69dd1-c757-401c-a4c1-94c7262fdb78)
 
+### Enemies
 
+![Enemy 1](https://github.com/5yamach5/TheExile/assets/163719893/4b0bb9e5-1ef9-4373-bd8e-ad00ff650510)
+![Enemy 2](https://github.com/5yamach5/TheExile/assets/163719893/e443344d-8f9a-4fdc-8106-22e5259c85b3)
+![Enemy 3](https://github.com/5yamach5/TheExile/assets/163719893/00f46a0c-c1bb-4f8c-bd11-655d1b08bfee)
+
+### Guide Menu
+
+![Guide Menu](https://github.com/5yamach5/TheExile/assets/163719893/e0cf058e-1e8d-4938-9241-667b6dfd17b2)
+
+### Win Scene
+
+![Win Scene](https://github.com/5yamach5/TheExile/assets/163719893/13a34da2-c876-484c-a7a0-a39856eb17d6)
+
+### Game Scenes
+
+![Game Scene 1](https://github.com/5yamach5/TheExile/assets/163719893/448195a3-4836-4023-93a9-193a1f3f3f61)
+![Game Scene 2](https://github.com/5yamach5/TheExile/assets/163719893/6d7c4d84-ec25-488a-b9c0-c9649591fc21)
